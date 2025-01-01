@@ -1,23 +1,24 @@
 # Anand Pathak
 **Welcome to my GitHub profile!**
 
-👋 I'm a recent graduate with a Bachelor of Technology in Computer Science and Engineering from Dr. Shakuntala Misra National Rehabilitation University.  I'm passionate about software development and possess a strong foundation in various technologies.
+👋 I am a technocrat and an enthusiast for new technology. I am a go-getter, responsible, innovative, passionate, and committed learner. I’m passionate about what I do, and I love to help people.
+I like to learn about new things, technologies and how it works. I am determined to succeed, to improve myself and to expand on all of my skills and talents whenever the chance arises.
 
 **Skills:**
 
 * Programming Languages: Java, HTML, CSS, JavaScript
-* Frameworks & Libraries: ReactJS (basic)
-* Development Tools: VS Code, Android Studio, IntelliJ
+* Frameworks & Libraries: ReactJS, Flutter
+* Development Tools: VS Code, Android Studio
 * Core Competencies: Analytical Skills, Problem Solving
 
 **Experience:**
 
-* **Full Stack Java Developer (Nov 2020 - Sep 2024)** - Tata Strive 
+* **Full Stack Java Developer (Nov 2024 - Pesent)** - Tata Strive 
 
 **Connect with me:**
 
 * LinkedIn: (www.linkedin.com/in/rudraofficial)
-* Personal Website: (anandpathak.netlify.app)
+* Personal Website: ([https:/anandpathak.netlify.app](anandpathak.netlify.app))
 
 **Contributions:**
 
