@@ -28,7 +28,6 @@
 * English (fluent)
 * Hindi (native)
 
-**This is an ongoing profile, so stay tuned for updates!**
 
 
 <!---
