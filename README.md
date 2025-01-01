@@ -1,6 +1,4 @@
 # Anand Pathak
-## Anand Pathak
-
 **Welcome to my GitHub profile!**
 
 👋 I'm a recent graduate with a Bachelor of Technology in Computer Science and Engineering from Dr. Shakuntala Misra National Rehabilitation University.  I'm passionate about software development and possess a strong foundation in various technologies.
@@ -18,8 +16,8 @@
 
 **Connect with me:**
 
-* LinkedIn: [link to your LinkedIn profile](www.linkedin.com/in/rudraofficial)
-* Personal Website: [link to your portfolio website](anandpathak.netlify.app)
+* LinkedIn: (www.linkedin.com/in/rudraofficial)
+* Personal Website: (anandpathak.netlify.app)
 
 **Contributions:**
 
