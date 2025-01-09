@@ -18,7 +18,7 @@ I like to learn about new things, technologies and how it works. I am determined
 **Connect with me:**
 
 * LinkedIn: (www.linkedin.com/in/rudraofficial)
-* Personal Website: ([https:/anandpathak.netlify.app](anandpathak.netlify.app))
+* Personal Website: ([https://anandpathak.netlify.app](anandpathak.netlify.app))
 
 **Contributions:**
 
