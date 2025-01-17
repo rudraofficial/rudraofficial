@@ -13,12 +13,8 @@ I like to learn about new things, technologies and how it works. I am determined
 
 **Experience:**
 
-* **Full Stack Java Developer (Nov 2024 - Pesent)** - Tata Strive 
-
-**Connect with me:**
-
-* LinkedIn: (www.linkedin.com/in/rudraofficial)
-* Personal Website: ([https://anandpathak.netlify.app](anandpathak.netlify.app))
+* **Full Stack Java Developer (Nov 2024 - Pesent)** - Tata Strive
+  
 
 **Contributions:**
 
